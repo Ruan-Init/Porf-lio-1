@@ -3,24 +3,24 @@
 
 @media screen and (min-width: 768px){
 
-i#burguer{
+.hero{
     display: none;
 
 }
 
-menu {
+nav {
  
    display: block;  
 
 }
 
-menu > ul > li {
+.logo > ul > li {
 
    display: inline-block; 
     
 }
 
-main {
+.detel {
 
     width: 768px;
 
